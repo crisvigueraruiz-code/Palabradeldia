@@ -1,0 +1,6 @@
+{
+  "name": "La Viñeta del Día - Ilustración, Palabra y Redes",
+  "description": "Compila la actualidad global, define la palabra clave de cada jornada y genera automáticamente las captions para Instagram y TikTok en España a partir de tu ilustración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
